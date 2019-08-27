@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteDoAvaliador" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-08-26T22:10:03" hostname="DrLunatic" time="425.442">
+  <properties/>
+  <testcase name="main()" classname="TesteDoAvaliador" time="425.442">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[400.0
+-Infinity
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
